@@ -1,0 +1,43 @@
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache de testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs de execução
+logs/
+*.log
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Arquivos temporários do Excel
+~$*.xlsx
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+venv_validacao/
+
